@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="MainActivity2" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="51b97bde-3697-4678-8c05-6a8f18db3410" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/FireApp/app/src/main/java/com/cos/fireapp/HomeActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/FireApp/app/src/main/java/com/cos/fireapp/JoinActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/FireApp/app/src/main/java/com/cos/fireapp/LoginActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/FireApp/app/src/main/res/layout/activity_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/FireApp/app/src/main/res/layout/activity_join.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/FireApp/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/FirestoreApp/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/FirestoreApp/app/src/main/java/com/cos/firestoreapp/model/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/FirestoreApp/app/src/main/java/com/cos/firestoreapp/model/BoardDetailDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/FirestoreApp/app/src/main/java/com/cos/firestoreapp/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/FirestoreApp/app/src/main/java/com/cos/firestoreapp/service/BoardService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/FirestoreApp/app/src/main/java/com/cos/firestoreapp/service/MyCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/java/com/example/myapplication/MovieAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/amugea.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/ic_add.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/ic_add_box.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/ic_apps.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/ic_arrow_back.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/ic_assignment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/ic_chat_bubble.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/ic_favorite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/ic_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/ic_live_tv.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/ic_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/ic_more_horiz.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/ic_more_vert.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/ic_near_me.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/ic_person.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/ic_photo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/ic_search.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/ic_setting.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/ic_star_outline.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/ic_tag.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/ic_turned_in.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/ic_user.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/instagram_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/instagram_logo_onlytext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/mov01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/mov02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/mov03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/mov04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/mov05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/mov06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/mov07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/mov08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/mov09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/mov10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/mov11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/mov12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/movie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/movie_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/post1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/post2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/post3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/post4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/talk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/talk_solid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/drawable/white_rounded_button.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/layout/dialog_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/layout/movie_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/layout/toolbar_movie.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication/app/src/main/res/menu/bottom_navigation_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/app/src/androidTest/java/com/example/myapplication2/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/app/src/main/java/com/example/myapplication2/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/app/src/main/java/com/example/myapplication2/SubActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/app/src/main/java/com/example/myapplication2/helper/NavigationViewHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/app/src/main/res/drawable/ic_favorite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/app/src/main/res/layout/activity_sub.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/app/src/main/res/layout/header.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/app/src/main/res/layout/my_navigation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/app/src/main/res/menu/menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/app/src/test/java/com/example/myapplication2/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication2/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication3/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication3/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication3/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication3/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication3/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication3/app/src/androidTest/java/com/example/myapplication/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication3/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication3/app/src/main/java/com/example/myapplication/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication3/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication3/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication3/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication3/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication3/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication3/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication3/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication3/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication3/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication3/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication3/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication3/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication3/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication3/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication3/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication3/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication3/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication3/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication3/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication3/app/src/test/java/com/example/myapplication/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication3/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication3/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication3/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication3/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication3/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication3/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication3/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/app/src/androidTest/java/com/example/myapplication/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/app/src/main/java/com/example/myapplication/Frag1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/app/src/main/java/com/example/myapplication/Frag2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/app/src/main/java/com/example/myapplication/Frag3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/app/src/main/java/com/example/myapplication/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/app/src/main/java/com/example/myapplication/MyFragmentPagerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/app/src/main/res/drawable/ic_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/app/src/main/res/drawable/ic_person.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/app/src/main/res/drawable/ic_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/app/src/main/res/layout/frag_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/app/src/main/res/layout/frag_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/app/src/main/res/layout/frag_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/app/src/test/java/com/example/myapplication/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/MyApplication4/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/Retrofit/app/src/main/java/com/example/retrofit/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/Retrofit/app/src/main/java/com/example/retrofit/PostAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/Retrofit/app/src/main/java/com/example/retrofit/PostApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/Retrofit/app/src/main/res/drawable-v24/post4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/Retrofit/app/src/main/res/layout/post_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/UITest/app/src/main/java/com/cos/uitest/adapter/MidContainerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/UITest/app/src/main/java/com/cos/uitest/adapter/TopContainerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/UITest/app/src/main/java/com/cos/uitest/model/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/UITest/app/src/main/res/drawable-v24/cat1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/UITest/app/src/main/res/drawable-v24/cat2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/UITest/app/src/main/res/drawable-v24/cat3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/UITest/app/src/main/res/drawable-v24/post3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/UITest/app/src/main/res/drawable-v24/post4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/UITest/app/src/main/res/drawable/ic_bookmark.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/UITest/app/src/main/res/drawable/ic_favorite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/UITest/app/src/main/res/layout/mid_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/UITest/app/src/main/res/layout/top_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/mvvmex1/app/src/main/java/com/example/mvvmex1/model/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../androidwork/mvvmex1/app/src/main/java/com/example/mvvmex1/viewmodel/PostViewModel.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1pSAjdbsh34v3gp1ATm6Bl2eCtE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../../../ProgramingDownload/androidStudioSDKLocation" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Programing\workspace\contactListApp\App" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Phone_App.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51b97bde-3697-4678-8c05-6a8f18db3410" name="Default Changelist" comment="" />
+      <created>1615166253774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615166253774</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="332" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1615177004388">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="332" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1615177004388" />
+    <state x="0" y="435" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1615178822885">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="435" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615178822885" />
+    <state x="107" y="275" key="AndroidCreateResourceFileDialog" timestamp="1615166554242">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="107" y="275" key="AndroidCreateResourceFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615166554242" />
+    <state x="303" y="278" key="FileChooserDialogImpl" timestamp="1615181822043">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="303" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1615181822043" />
+    <state width="1005" height="281" key="GridCell.Tab.0.bottom" timestamp="1615180815189">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1005" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615180815189" />
+    <state width="1005" height="281" key="GridCell.Tab.0.center" timestamp="1615180815189">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1005" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615180815189" />
+    <state width="1005" height="281" key="GridCell.Tab.0.left" timestamp="1615180815189">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1005" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615180815189" />
+    <state width="1005" height="281" key="GridCell.Tab.0.right" timestamp="1615180815189">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1005" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615180815189" />
+    <state x="253" y="271" key="extract.method.dialog" timestamp="1615179536915">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="253" y="271" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615179536915" />
+    <state x="231" y="255" width="584" height="536" key="find.popup" timestamp="1615177042171">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="231" y="255" width="584" height="536" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1615177042171" />
+    <state x="316" y="268" key="refactoring.ChangeSignatureDialog" timestamp="1615178336820">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="316" y="268" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615178336820" />
+  </component>
+</project>

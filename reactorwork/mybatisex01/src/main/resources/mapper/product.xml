@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper
+	namespace="com.cos.mybatisex01.repository.ProductRepository">
+
+	<!-- 저장 구현 -->
+	<insert id="save">
+		INSERT INTO product(name, code) VALUES(#{name},
+		#{code})
+	</insert>
+
+	<!-- 삭제 구현 -->
+	<delete id="deleteById">
+		DELETE FROM product where id = #{id}
+	</delete>
+
+	<!-- 수정 구현 -->
+	<update id="update">
+		UPDATE product SET
+		name = #{name},
+		code = #{code}
+		WHERE
+		id = #{id}
+	</update>
+	
+	<!-- 모두 찾기 구현 -->
+	<select id="findAll" resultType="com.cos.mybatisex01.model.Product">
+		SELECT * FROM product
+	</select>
+	
+	<!-- 한건 찾기 구현 -->
+	<select id="findById" resultType="com.cos.mybatisex01.model.Product">
+		SELECT * FROM product WHERE id = #{id}
+	</select>
+	
+
+</mapper>
